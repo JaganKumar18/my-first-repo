@@ -1,0 +1,40 @@
+h2{
+    font-family:   Times, serif;
+    font-size: medium;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    color: black;
+}
+.j1{
+    border-bottom: 3px solid black;
+   text-align: left;
+}
+.j2{
+    border-bottom: 3px solid black;
+}
+
+.j3{
+    border-bottom: 3px solid black;
+}
+
+.j4{
+    border-bottom: 3px solid black;
+}
+
+.j5{
+    border-bottom: 3px solid black;
+}
+#heading1{
+    text-align: center;
+    text-decoration: underline;
+}
+button{
+    background-color: lightskyblue;
+    text-align: center;
+    font-size: small;
+    width: 100px;
+    height: 25px;
+    margin-bottom: 10px;
+}
